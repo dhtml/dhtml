@@ -1,14 +1,14 @@
 {
   "user": {
-    "name": "Aleem Isiaka",
-    "email": "aleemisiaka@gmail.com",
-    "blog": "https://aleemisiaka.com",
-    "company": "Josplay",
+    "name": "Anthony Ogundipe",
+    "email": "diltony@gmail.com",
+    "blog": "https://anthonyogundipe.com",
+    "company": "Africoders",
     "location": "Lagos, NG",
     "hireable": true,
-    "bio": "I'm a CompSci passionate who loves coding, helping people and mental challenges."
+    "bio": "I'm a versatile developer who loves coding in multiple languages"
   },
-  "twitter_username": "limistah",
+  "twitter_username": "misterdhtml",
   "pinned": [
     "https://github.com/all-contributors/all-contributors-cli",
     "https://github.com/all-contributors/all-contributors"
