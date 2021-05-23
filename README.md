@@ -98,5 +98,4 @@ You can find me on:
 ![My github stats](https://github-readme-stats.vercel.app/api?username=dhtml&show_icons=true&hide_border=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhtml)](https://github.com/anuraghazra/github-readme-stats)
-![dhtml's github stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dhtml&width=820&tooltip=true&active-skills="HTML,%20CSS,%20JSON,%20JavaScript,%20Python,%20SCSS,%20Shell,%20TypeScript,%20Vue,%20Jupyter%20Notebook,%20Dockerfile,%20Batchfile,%20C#,%20Java,Dart")
 
